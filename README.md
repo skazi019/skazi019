@@ -1,7 +1,7 @@
 Hi 👋 My name is Kaushal Sharma
 ===============================
 
-Freelance Software Engineer
+Software Engineer
 ---------------------------
 
 With 3.5 years of work experience i've decided to freelance as a software engineer! Experienced in python but with a knack exploring other technologies like Javscript for frontend or Flutter for mobile development. I try to publish an informative blog every week on LinkedIn/dev.to so see you over there! 🏃🏻‍♂️
